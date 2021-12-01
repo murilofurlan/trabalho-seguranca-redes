@@ -38,7 +38,7 @@
  - Conversão do handshake.pcap para .hccapx, formato que a ferramenta hashcat utiliza.
     - https://hashcat.net/cap2hashcat/
 
- - Brute forcing do handshate obtido pelo wifite usando a ferramenta Hashcat
+ - Brute forcing do handshake obtido pelo wifite usando a ferramenta Hashcat
     - https://hashcat.net/hashcat/
     - Usagem hashcat:
         - **hashcat -a 0 -m 2500 ./handshake.hccapx ./probable-v2-top12000.txt**
