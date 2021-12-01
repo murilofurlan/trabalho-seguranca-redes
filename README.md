@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/BrD0riF)
+![Imgur](https://imgur.com/BrD0riF.jpg)
 
 # Trabalho Final de Segurança da Informação:
 
