@@ -16,7 +16,6 @@
  - Enumeração de serviços e vulnerabilidades usando nmap e nse scripts
  - Identificação de Vulnerabilidades com Searchsploit (Exploit-DB)
  - Confirmação e exploração dessas vulnerabilidades com Metasploit
- - #win 😎😎
 
 #
 ## Invasão da rede Wireless:
